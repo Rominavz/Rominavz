@@ -10,9 +10,8 @@
 
 
 
-⚡ About me: I am a Full Stack developer graduated from the Soy Henry bootcamp where I have acquired academic experience in programming both individual and group projects. In addition, I am an Industrial Engineer, a profession that allowed me to develop leadership skills and determination with a logical, precise and systematic style in terms of approach and how to achieve goals.
-I love challenges, I am a proactive person who prefers novelty, imaginative ideas and work that involves change, variety and teamwork, which is why I am passionate about this world of programming.
-
+⚡ About me: I am a Full Stack developer graduated from the I'm Henry bootcamp where I have acquired academic experience in programming in both individual and group projects. I am also an Industrial Engineer, a career that allowed me to develop leadership skills and determination with a logical, precise and systematic style on how to approach and achieve goals. 
+<p> I love challenges! I am a proactive person who prefers dynamic environments and the possibility to approach projects with innovative solutions. I enjoy teamwork because it allows me to learn through the experiences of people with the most diverse backgrounds, which is why I am passionate about the world of programming.</p>
 
 <!---
 
