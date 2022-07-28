@@ -43,7 +43,7 @@
 
 
 <h4 align="left">Portfolio:</h4>
-<p align="left"> <a href="https://rominavz.com.ar/" target="_blank"><p>romina.com.ar</p>
+<p align="left"> <a href="https://rominavz.com.ar" target="blank"><p>romina.com.ar</p>
 <h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://linkedin.com/in/romina-valdez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="romina-valdez" height="30" width="40" /></a>
